@@ -4,14 +4,14 @@
 ### Sample usage of the most popular Design Patterns
 <hr>
 
-#### Creational
+### <p align="center"> Creational </p>
 ✅ -  [Factory Method](https://github.com/vicardo11/design-patterns/tree/master/FactoryMethod)\
 ✅ -  [Builder](https://github.com/vicardo11/design-patterns/tree/master/Builder)\
 ✅ -  [Abstract Factory](https://github.com/vicardo11/design-patterns/tree/master/AbstractFactory)\
 ❌ -  Prototype
 <hr>
 
-#### Structural
+### <p align="center"> Structural</p>
 ✅ - [Decorator](https://github.com/vicardo11/design-patterns/tree/master/Decorator)\
 ❌ - Adapter\
 ❌ - Bridge\
@@ -22,7 +22,7 @@
 <hr>
 
 
-#### Behavioral
+### <p align="center"> Behavioral</p>
 ✅ - [Observer](https://github.com/vicardo11/design-patterns/tree/master/Observer)\
 ✅ - [Command](https://github.com/vicardo11/design-patterns/tree/master/Command)\
 ❌ - Chain of Responsibility\
