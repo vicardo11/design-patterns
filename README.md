@@ -8,7 +8,7 @@
 ✅ -  [Factory Method](https://github.com/vicardo11/design-patterns/tree/master/FactoryMethod)\
 ✅ -  [Builder](https://github.com/vicardo11/design-patterns/tree/master/Builder)\
 ✅ -  [Abstract Factory](https://github.com/vicardo11/design-patterns/tree/master/AbstractFactory)\
-✅ -  Prototype
+✅ -  [Prototype](https://github.com/vicardo11/design-patterns/tree/master/Prototype)
 <hr>
 
 ### <p align="center"> Structural</p>
