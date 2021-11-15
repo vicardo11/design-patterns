@@ -13,7 +13,7 @@
 
 ### <p align="center"> Structural</p>
 ✅ - [Decorator](https://github.com/vicardo11/design-patterns/tree/master/Decorator)\
-❌ - Adapter\
+✅ - [Adapter](https://github.com/vicardo11/design-patterns/tree/master/Adapter)\
 ❌ - Bridge\
 ❌ - Composite\
 ❌ - Facade\
