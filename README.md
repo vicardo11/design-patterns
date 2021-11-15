@@ -16,7 +16,7 @@
 ✅ - [Adapter](https://github.com/vicardo11/design-patterns/tree/master/Adapter)\
 ❌ - Bridge\
 ❌ - Composite\
-❌ - Facade\
+✅ - [Facade](https://github.com/vicardo11/design-patterns/tree/master/Facade)\
 ❌ - Flyweight\
 ❌ - Proxy
 <hr>
